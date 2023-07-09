@@ -4,8 +4,8 @@ const { ParseServer } = require("parse-server");
 const ParseDashboard = require("parse-dashboard");
 
 const DATABASE_URI = "mongodb://localhost:27017/testApp";
-const MOUNT_PATH = "/1";
-const PARSE_SERVER_URL = "http://localhost:1337/1";
+const MOUNT_PATH = "/parse";
+const PARSE_SERVER_URL = "http://localhost:1337/parse";
 const PORT =  1337;
 const PARSE_APP_NAME = "testApp";
 const PARSE_APP_ID = "248180b4-e828-4e7e-83cf-6240fa9cb41a";
