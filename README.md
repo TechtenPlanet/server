@@ -1,1 +1,1 @@
-# server
+# javascript-lessons
